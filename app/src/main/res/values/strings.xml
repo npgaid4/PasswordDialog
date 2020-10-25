@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PasswordDialog</string>
+    <string name="password">パスワード確認</string>
+    <string name="run">実行</string>
+    <string name="getInfo">情報取得</string>
+</resources>
